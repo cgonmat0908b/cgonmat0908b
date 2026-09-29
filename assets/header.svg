@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+  <title id="title">Cristian González Mateo</title>
+  <desc id="desc">Estudiante de DAW / Web development student. Backend y datos / Backend and data.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0D1827"/><stop offset="1" stop-color="#152C3C"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#6EE7B7"/><stop offset="1" stop-color="#67E8F9"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#A8D6D7" stroke-opacity=".05"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="310" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="310" rx="20" fill="url(#grid)"/>
+  <rect x="42" y="43" width="4" height="225" rx="2" fill="url(#accent)"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="72" y="70" font-size="15" letter-spacing="3" fill="#9BC2CF">DESARROLLO WEB · WEB DEVELOPMENT</text>
+    <text x="70" y="139" font-size="49" font-weight="700" letter-spacing="-1" fill="#F0F7FB">Cristian González Mateo</text>
+    <text x="72" y="178" font-size="22" fill="#BAD0DE">Estudiante de DAW / Web development student</text>
+    <g font-size="13" font-weight="600" letter-spacing="1.4">
+      <rect x="72" y="220" width="116" height="34" rx="17" fill="#6EE7B7" fill-opacity=".10" stroke="#6EE7B7" stroke-opacity=".35"/>
+      <text x="91" y="242" fill="#96F1CE">BACKEND</text>
+      <rect x="202" y="220" width="172" height="34" rx="17" fill="#67E8F9" fill-opacity=".08" stroke="#67E8F9" stroke-opacity=".35"/>
+      <text x="223" y="242" fill="#A0ECF7">DATOS / DATA</text>
+    </g>
+    <g transform="translate(936 78)">
+      <rect width="176" height="154" rx="20" fill="#0D1C2A" stroke="#4D7C8A" stroke-opacity=".5"/>
+      <text x="28" y="93" font-family="Consolas, monospace" font-size="43" font-weight="700" fill="url(#accent)">&lt;CGM&gt;</text>
+      <circle cx="32" cy="27" r="4" fill="#6EE7B7"/>
+      <circle cx="47" cy="27" r="4" fill="#67E8F9"/>
+      <circle cx="62" cy="27" r="4" fill="#577787"/>
+      <path d="M30 118H146" stroke="#456574"/>
+    </g>
+  </g>
+</svg>
