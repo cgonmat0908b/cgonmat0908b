@@ -44,8 +44,6 @@ I like understanding how things work and turning that curiosity into code. This 
   </tr>
 </table>
 
-🗃️ I practise SQL with **MySQL and MySQL Workbench**, at a basic level. DAW is Spain's Higher Vocational Training programme in Web Application Development.
-
 ## 🔭 What sparks my curiosity
 
 <table>
