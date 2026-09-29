@@ -44,8 +44,6 @@ Me gusta entender cómo funcionan las cosas y convertir esa curiosidad en códig
   </tr>
 </table>
 
-🗃️ SQL lo practico con **MySQL y MySQL Workbench**, a nivel básico.
-
 ## 🔭 Lo que me despierta curiosidad
 
 <table>
