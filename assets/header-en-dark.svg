@@ -43,7 +43,7 @@
           </animate>
         </path>
       </g>
-         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="36%" class="text" style="fill:#252744;" stroke="#none" stroke-width="1" >Cristian</text>
-        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="58%" class="desc" style="fill:#252744;">Código, curiosidad y ganas de aprender</text>
+         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="36%" class="text" style="fill:#F0F6FC;" stroke="#none" stroke-width="1" >Cristian</text>
+        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="58%" class="desc" style="fill:#F0F6FC;">Code, curiosity and a desire to learn</text>
       </svg>
     

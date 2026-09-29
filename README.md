@@ -1,48 +1,101 @@
 <p align="right"><strong>Español</strong> · <a href="README.en.md">English</a></p>
 
-![Cristian González Mateo — estudiante de Desarrollo de Aplicaciones Web. Intereses: backend y datos.](assets/header.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img src="assets/header.svg" width="854" alt="Cristian · Código, curiosidad y ganas de aprender">
+  </picture>
+</p>
 
-# Hola, soy Cristian
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/typing-es-dark.svg">
+    <img src="assets/typing-es-light.svg" width="680" alt="Aprendiendo a construir para la web · PHP y Python en marcha · Backend y datos en el radar">
+  </picture>
+</p>
 
-Estudio **2.º de Desarrollo de Aplicaciones Web (DAW)**. Estoy construyendo mi base en desarrollo web y me interesa especialmente la lógica que hay detrás de una aplicación: cómo funciona, cómo organiza sus datos y cómo puede mejorar.
+<p align="center">
+  🎒 <strong>2.º de DAW</strong> · 🌱 Aprendiendo PHP y Python · 🧩 Mejorando con cada práctica
+</p>
 
-Actualmente aprendo **PHP y Python**, y refuerzo **HTML, CSS y JavaScript** con ejercicios y prácticas. Me gustaría orientar mi aprendizaje hacia el **backend**, la **estadística** y el **análisis de datos**, y explorar la **inteligencia artificial y el machine learning**.
+Me gusta entender cómo funcionan las cosas y convertir esa curiosidad en código. Este es mi rincón para practicar, equivocarme, aprender y seguir construyendo. 🚀
 
-## Tecnologías y aprendizaje
+## 🛠️ Mi caja de herramientas
 
-| Punto de partida | Tecnologías |
+<table>
+  <tr>
+    <th align="center">🧩 Conocimientos básicos</th>
+    <th align="center">🎨 Reforzando la base web</th>
+    <th align="center">🌱 En aprendizaje</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/skills-base.svg" width="160" alt="Iconos de Java, MySQL y Git"><br>
+      <strong>Java · SQL · Git</strong>
+    </td>
+    <td align="center">
+      <img src="assets/skills-web.svg" width="160" alt="Iconos de HTML, CSS y JavaScript"><br>
+      <strong>HTML · CSS · JavaScript</strong>
+    </td>
+    <td align="center">
+      <img src="assets/skills-learning.svg" width="104" alt="Iconos de PHP y Python"><br>
+      <strong>PHP · Python</strong>
+    </td>
+  </tr>
+</table>
+
+🗃️ SQL lo practico con **MySQL y MySQL Workbench**, a nivel básico.
+
+## 🔭 Lo que me despierta curiosidad
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>⚙️ Backend</strong><br>
+      La lógica detrás de cada clic: cómo encajan los datos y el funcionamiento de una aplicación.
+    </td>
+    <td width="50%">
+      <strong>📊 Estadística y datos</strong><br>
+      Encontrar patrones entre tantos números y entender qué nos están contando.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>🤖 Inteligencia artificial</strong><br>
+      Explorar cómo la programación y los datos pueden ayudar a resolver problemas.
+    </td>
+    <td width="50%">
+      <strong>🧠 Machine learning</strong><br>
+      Entender cómo aprende un modelo, qué predice y dónde puede equivocarse.
+    </td>
+  </tr>
+</table>
+
+## 🧪 Mi laboratorio de DAW
+
+Cada repositorio es una parte de mi aprendizaje: ejercicios, ejemplos y pequeñas prácticas que voy ampliando durante el curso.
+
+| Repositorio | Qué estoy practicando |
 | --- | --- |
-| Conocimientos básicos | Java · SQL · Git |
-| Fundamentos web que estoy reforzando | HTML · CSS · JavaScript |
-| En aprendizaje | PHP · Python |
-| Herramientas de bases de datos | MySQL · MySQL Workbench, a nivel básico |
-| Primeros contactos | C · Desarrollo Android con Android Studio |
+| 🐘 [Ejercicios PHP](https://github.com/cgonmat0908b/Ejercicios_PHP) | Fundamentos de PHP, arrays, clases y algoritmos, organizados por relación. |
+| 🎨 [Diseño de interfaces web](https://github.com/cgonmat0908b/DIW) | HTML, listas, desplegables, diálogos y una galería interactiva. |
+| ⚡ [Desarrollo web en el cliente](https://github.com/cgonmat0908b/DWEC) | Primeros pasos con JavaScript: variables, tipos, conversiones y ámbito. |
+| 🐍 [Python](https://github.com/cgonmat0908b/Python) | Ejercicios, repasos, estructuras de control y colecciones. |
+| 🌱 [Introducción a Python](https://github.com/cgonmat0908b/introduccion-al-uso-de-python) | Una práctica inicial con listas, tuplas y rangos. |
 
-## Mi trabajo durante DAW
+## 🧭 Mi forma de avanzar
 
-Estos repositorios recogen mi aprendizaje en clase: ejercicios, ejemplos y prácticas que voy ampliando conforme avanzo.
+<table>
+  <tr>
+    <td width="50%"><strong>💪 Resiliencia</strong><br>Probar otro camino cuando algo se atasca.</td>
+    <td width="50%"><strong>👂 Escucha activa</strong><br>Aprender de las explicaciones y del feedback.</td>
+  </tr>
+  <tr>
+    <td width="50%"><strong>☀️ Actitud positiva</strong><br>Seguir con ganas de aprender, paso a paso.</td>
+    <td width="50%"><strong>🪞 Autocrítica</strong><br>Revisar mis errores y convertirlos en mejoras.</td>
+  </tr>
+</table>
 
-| Repositorio | Qué encontrarás |
-| --- | --- |
-| [Ejercicios PHP](https://github.com/cgonmat0908b/Ejercicios_PHP) | Fundamentos de PHP, arrays, clases y algoritmos, organizados por relación. |
-| [Diseño de interfaces web](https://github.com/cgonmat0908b/DIW) | Prácticas de HTML, listas, elementos desplegables, diálogos y una galería interactiva. |
-| [Desarrollo web en el cliente](https://github.com/cgonmat0908b/DWEC) | Primeros ejercicios de JavaScript: variables, tipos, conversiones y ámbito. |
-| [Python](https://github.com/cgonmat0908b/Python) | Ejercicios, repasos y ejemplos de estructuras de control y colecciones. |
-| [Introducción a Python](https://github.com/cgonmat0908b/introduccion-al-uso-de-python) | Una práctica inicial con listas, tuplas y rangos. |
-
-## Cómo afronto el aprendizaje
-
-- **Resiliencia:** sigo trabajando cuando algo no sale y busco otra forma de abordarlo.
-- **Escucha activa:** presto atención a las explicaciones y al feedback para entender qué puedo mejorar.
-- **Actitud positiva:** afronto los retos con disposición para aprender.
-- **Autocrítica:** reviso mis errores y trato de convertirlos en mejoras concretas.
-
-## Intereses
-
-**Backend · Estadística y datos · Inteligencia artificial · Machine learning**
-
-Me interesa conectar la programación con los datos: entender problemas, detectar patrones y construir soluciones útiles.
-
-## Contacto
-
-[cgonmat0908b@g.educaand.es](mailto:cgonmat0908b@g.educaand.es)
+<p align="center">
+  <img src="assets/footer.svg" width="854" alt="">
+</p>

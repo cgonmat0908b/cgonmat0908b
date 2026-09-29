@@ -1,0 +1,70 @@
+[
+  {
+    "name": "header-en.svg",
+    "url": "https://capsule-render.vercel.app/api?type=waving&height=240&color=0%3A6D59AD%2C50%3A426EA5%2C100%3A238B90&text=Cristian&fontColor=252744&fontSize=68&fontAlignY=36&desc=Code%2C+curiosity+and+a+desire+to+learn&descSize=20&descAlignY=58&animation=fadeIn&section=header",
+    "bytes": 2628,
+    "modifications": [
+      "Forma inicial de las ondas para visores sin SMIL",
+      "Color del texto ajustado para mejorar el contraste sobre las ondas translúcidas"
+    ]
+  },
+  {
+    "name": "header.svg",
+    "url": "https://capsule-render.vercel.app/api?type=waving&height=240&color=0%3A6D59AD%2C50%3A426EA5%2C100%3A238B90&text=Cristian&fontColor=252744&fontSize=68&fontAlignY=36&desc=C%C3%B3digo%2C+curiosidad+y+ganas+de+aprender&descSize=20&descAlignY=58&animation=fadeIn&section=header",
+    "bytes": 2630,
+    "modifications": [
+      "Forma inicial de las ondas para visores sin SMIL",
+      "Color del texto ajustado para mejorar el contraste sobre las ondas translúcidas"
+    ]
+  },
+  {
+    "name": "typing-es-dark.svg",
+    "url": "https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1400&duration=3500&color=C4B5FD&center=true&vCenter=true&width=680&height=48&lines=Aprendiendo+a+construir+para+la+web%3BPHP+%2B+Python+en+marcha%3BBackend+y+datos+en+el+radar",
+    "bytes": 9512
+  },
+  {
+    "name": "typing-es-light.svg",
+    "url": "https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1400&duration=3500&color=6250A1&center=true&vCenter=true&width=680&height=48&lines=Aprendiendo+a+construir+para+la+web%3BPHP+%2B+Python+en+marcha%3BBackend+y+datos+en+el+radar",
+    "bytes": 9512
+  },
+  {
+    "name": "typing-en-light.svg",
+    "url": "https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1400&duration=3500&color=6250A1&center=true&vCenter=true&width=680&height=48&lines=Learning+to+build+for+the+web%3BPHP+%2B+Python+in+progress%3BExploring+backend+and+data",
+    "bytes": 9859
+  },
+  {
+    "name": "skills-base.svg",
+    "url": "https://skillicons.dev/icons?i=java%2Cmysql%2Cgit&theme=dark",
+    "bytes": 9267
+  },
+  {
+    "name": "typing-en-dark.svg",
+    "url": "https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1400&duration=3500&color=C4B5FD&center=true&vCenter=true&width=680&height=48&lines=Learning+to+build+for+the+web%3BPHP+%2B+Python+in+progress%3BExploring+backend+and+data",
+    "bytes": 9859
+  },
+  {
+    "name": "skills-learning.svg",
+    "url": "https://skillicons.dev/icons?i=php%2Cpy&theme=dark",
+    "bytes": 4149
+  },
+  {
+    "name": "skills-web.svg",
+    "url": "https://skillicons.dev/icons?i=html%2Ccss%2Cjs&theme=dark",
+    "bytes": 2855
+  },
+  {
+    "name": "LICENSE-readme-typing-svg.txt",
+    "url": "https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/LICENSE",
+    "bytes": 1071
+  },
+  {
+    "name": "LICENSE-skill-icons.txt",
+    "url": "https://raw.githubusercontent.com/tandpfun/skill-icons/main/LICENSE",
+    "bytes": 1065
+  },
+  {
+    "name": "LICENSE-capsule-render.txt",
+    "url": "https://raw.githubusercontent.com/kyechan99/capsule-render/master/LICENSE",
+    "bytes": 1069
+  }
+]
